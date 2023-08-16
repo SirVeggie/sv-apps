@@ -1,6 +1,6 @@
 {
-  "name": "Svelte Template",
-  "short_name": "Svelte Template",
+  "name": "App Portal",
+  "short_name": "App Portal",
   "icons": [],
   "start_url": "/",
   "display": "standalone",
